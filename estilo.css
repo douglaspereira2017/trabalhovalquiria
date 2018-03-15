@@ -1,0 +1,43 @@
+
+/* ========================= layout ======================== */
+html,body{
+	height: 100%;
+	overflow: auto;
+	border:#990000 1px;
+	overflow-x:hidden;
+	background-color: #97FF97;
+	font-family: 'Conv_IstokWeb-Regular';
+}
+.navbar{
+	border:0px;
+	background: url(img/dy91i0aj0wgdonhceuisf58vu.jpg);
+	margin-top:0px;
+	}
+
+	}
+.lik {
+	 background:#fff;
+	
+	}
+.menu:hover a{
+	
+	 color: #fff !important;
+	}
+
+#rodape{
+	margin-top:40px;
+	}
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
